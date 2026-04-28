@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Computer Science",        "code": "CS",  "hod": "Dr. R. Suresh",  "intake": 60 },
+  { "id": 2, "name": "Information Technology",  "code": "IT",  "hod": "Dr. P. Meena",   "intake": 60 },
+  { "id": 3, "name": "Electronics",             "code": "EC",  "hod": "Prof. K. Rajan", "intake": 60 },
+  { "id": 4, "name": "Mechanical",              "code": "ME",  "hod": "Dr. S. Bala",    "intake": 60 },
+  { "id": 5, "name": "Civil",                   "code": "CE",  "hod": "Prof. A. Kumar", "intake": 60 },
+  { "id": 6, "name": "Business Administration", "code": "MBA", "hod": "Dr. V. Priya",   "intake": 60 }
+]
